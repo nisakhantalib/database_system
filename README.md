@@ -49,7 +49,7 @@ This repository contains a full database design project completed for the COMP23
 ## 🎥 Video Presentation
 
 If you to want to watch the video walk-through you can:
-**[📺 Watch the presentation](./videothumbnailDB.png)(https://drive.google.com/file/d/19xvAeJNpjZSymQR5MDEvTtcRAgcFY-px/view?usp=drive_link)**
+**[![Watch the presentation](./videothumbnailDB.png)](https://drive.google.com/file/d/19xvAeJNpjZSymQR5MDEvTtcRAgcFY-px/view?usp=drive_link)**
 
 ---
 
